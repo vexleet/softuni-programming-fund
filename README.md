@@ -5,4 +5,4 @@
 * Labs
 * Exam preparations
 
-In the Conditions folder you can see the description of the exercises
+In the Conditions folder you can see the description of the exercises (there are no conditions for exam preparations).
