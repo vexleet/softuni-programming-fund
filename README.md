@@ -1,2 +1,8 @@
-# softuni-programming-fund
-My exercises, labs and exam preparations i did during my course in SoftUni.
+# SoftUni Programming Fundamentals
+
+## In this repository you can see my:
+* Homeworks
+* Labs
+* Exam preparations
+
+In the Conditions folder you can see the description of the exercises
