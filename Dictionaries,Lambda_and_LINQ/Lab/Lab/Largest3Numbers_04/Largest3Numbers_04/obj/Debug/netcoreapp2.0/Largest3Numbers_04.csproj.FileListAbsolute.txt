@@ -1,0 +1,10 @@
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Lab\Lab\Largest3Numbers_04\Largest3Numbers_04\bin\Debug\netcoreapp2.0\Largest3Numbers_04.deps.json
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Lab\Lab\Largest3Numbers_04\Largest3Numbers_04\bin\Debug\netcoreapp2.0\Largest3Numbers_04.runtimeconfig.json
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Lab\Lab\Largest3Numbers_04\Largest3Numbers_04\bin\Debug\netcoreapp2.0\Largest3Numbers_04.runtimeconfig.dev.json
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Lab\Lab\Largest3Numbers_04\Largest3Numbers_04\bin\Debug\netcoreapp2.0\Largest3Numbers_04.dll
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Lab\Lab\Largest3Numbers_04\Largest3Numbers_04\bin\Debug\netcoreapp2.0\Largest3Numbers_04.pdb
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Lab\Lab\Largest3Numbers_04\Largest3Numbers_04\obj\Debug\netcoreapp2.0\Largest3Numbers_04.csproj.CoreCompileInputs.cache
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Lab\Lab\Largest3Numbers_04\Largest3Numbers_04\obj\Debug\netcoreapp2.0\Largest3Numbers_04.AssemblyInfoInputs.cache
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Lab\Lab\Largest3Numbers_04\Largest3Numbers_04\obj\Debug\netcoreapp2.0\Largest3Numbers_04.AssemblyInfo.cs
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Lab\Lab\Largest3Numbers_04\Largest3Numbers_04\obj\Debug\netcoreapp2.0\Largest3Numbers_04.dll
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Lab\Lab\Largest3Numbers_04\Largest3Numbers_04\obj\Debug\netcoreapp2.0\Largest3Numbers_04.pdb

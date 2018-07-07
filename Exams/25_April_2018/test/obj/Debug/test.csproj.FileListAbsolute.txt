@@ -1,0 +1,7 @@
+D:\Tech Module Softuni\Programming Fund\Exams\25_April_2018\test\bin\Debug\test.exe.config
+D:\Tech Module Softuni\Programming Fund\Exams\25_April_2018\test\bin\Debug\test.exe
+D:\Tech Module Softuni\Programming Fund\Exams\25_April_2018\test\bin\Debug\test.pdb
+D:\Tech Module Softuni\Programming Fund\Exams\25_April_2018\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Tech Module Softuni\Programming Fund\Exams\25_April_2018\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Tech Module Softuni\Programming Fund\Exams\25_April_2018\test\obj\Debug\test.exe
+D:\Tech Module Softuni\Programming Fund\Exams\25_April_2018\test\obj\Debug\test.pdb

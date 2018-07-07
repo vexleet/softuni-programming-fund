@@ -1,0 +1,10 @@
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\СръбскоUnleashed_10\bin\Debug\netcoreapp2.0\СръбскоUnleashed_10.deps.json
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\СръбскоUnleashed_10\bin\Debug\netcoreapp2.0\СръбскоUnleashed_10.runtimeconfig.json
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\СръбскоUnleashed_10\bin\Debug\netcoreapp2.0\СръбскоUnleashed_10.runtimeconfig.dev.json
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\СръбскоUnleashed_10\bin\Debug\netcoreapp2.0\СръбскоUnleashed_10.dll
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\СръбскоUnleashed_10\bin\Debug\netcoreapp2.0\СръбскоUnleashed_10.pdb
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\СръбскоUnleashed_10\obj\Debug\netcoreapp2.0\СръбскоUnleashed_10.csproj.CoreCompileInputs.cache
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\СръбскоUnleashed_10\obj\Debug\netcoreapp2.0\СръбскоUnleashed_10.AssemblyInfoInputs.cache
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\СръбскоUnleashed_10\obj\Debug\netcoreapp2.0\СръбскоUnleashed_10.AssemblyInfo.cs
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\СръбскоUnleashed_10\obj\Debug\netcoreapp2.0\СръбскоUnleashed_10.dll
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\СръбскоUnleashed_10\obj\Debug\netcoreapp2.0\СръбскоUnleashed_10.pdb

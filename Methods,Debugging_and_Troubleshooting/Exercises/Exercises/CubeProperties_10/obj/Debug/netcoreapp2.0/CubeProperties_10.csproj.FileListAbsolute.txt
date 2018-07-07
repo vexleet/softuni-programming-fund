@@ -1,0 +1,11 @@
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\CubeProperties_10\bin\Debug\netcoreapp2.0\CubeProperties_10.deps.json
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\CubeProperties_10\bin\Debug\netcoreapp2.0\CubeProperties_10.runtimeconfig.json
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\CubeProperties_10\bin\Debug\netcoreapp2.0\CubeProperties_10.runtimeconfig.dev.json
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\CubeProperties_10\bin\Debug\netcoreapp2.0\CubeProperties_10.dll
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\CubeProperties_10\bin\Debug\netcoreapp2.0\CubeProperties_10.pdb
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\CubeProperties_10\obj\Debug\netcoreapp2.0\CubeProperties_10.csprojAssemblyReference.cache
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\CubeProperties_10\obj\Debug\netcoreapp2.0\CubeProperties_10.csproj.CoreCompileInputs.cache
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\CubeProperties_10\obj\Debug\netcoreapp2.0\CubeProperties_10.AssemblyInfoInputs.cache
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\CubeProperties_10\obj\Debug\netcoreapp2.0\CubeProperties_10.AssemblyInfo.cs
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\CubeProperties_10\obj\Debug\netcoreapp2.0\CubeProperties_10.dll
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\CubeProperties_10\obj\Debug\netcoreapp2.0\CubeProperties_10.pdb

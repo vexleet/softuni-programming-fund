@@ -1,0 +1,10 @@
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\DragonArmy_11\obj\Debug\netcoreapp2.0\DragonArmy_11.csproj.CoreCompileInputs.cache
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\DragonArmy_11\obj\Debug\netcoreapp2.0\DragonArmy_11.AssemblyInfoInputs.cache
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\DragonArmy_11\obj\Debug\netcoreapp2.0\DragonArmy_11.AssemblyInfo.cs
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\DragonArmy_11\bin\Debug\netcoreapp2.0\DragonArmy_11.deps.json
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\DragonArmy_11\bin\Debug\netcoreapp2.0\DragonArmy_11.runtimeconfig.json
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\DragonArmy_11\bin\Debug\netcoreapp2.0\DragonArmy_11.runtimeconfig.dev.json
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\DragonArmy_11\bin\Debug\netcoreapp2.0\DragonArmy_11.dll
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\DragonArmy_11\bin\Debug\netcoreapp2.0\DragonArmy_11.pdb
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\DragonArmy_11\obj\Debug\netcoreapp2.0\DragonArmy_11.dll
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\DragonArmy_11\obj\Debug\netcoreapp2.0\DragonArmy_11.pdb

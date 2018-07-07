@@ -1,0 +1,11 @@
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\SequenceOfCommands_18\bin\Debug\netcoreapp2.0\SequenceOfCommands_18.deps.json
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\SequenceOfCommands_18\bin\Debug\netcoreapp2.0\SequenceOfCommands_18.runtimeconfig.json
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\SequenceOfCommands_18\bin\Debug\netcoreapp2.0\SequenceOfCommands_18.runtimeconfig.dev.json
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\SequenceOfCommands_18\bin\Debug\netcoreapp2.0\SequenceOfCommands_18.dll
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\SequenceOfCommands_18\bin\Debug\netcoreapp2.0\SequenceOfCommands_18.pdb
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\SequenceOfCommands_18\obj\Debug\netcoreapp2.0\SequenceOfCommands_18.csproj.CoreCompileInputs.cache
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\SequenceOfCommands_18\obj\Debug\netcoreapp2.0\SequenceOfCommands_18.AssemblyInfoInputs.cache
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\SequenceOfCommands_18\obj\Debug\netcoreapp2.0\SequenceOfCommands_18.AssemblyInfo.cs
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\SequenceOfCommands_18\obj\Debug\netcoreapp2.0\SequenceOfCommands_18.dll
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\SequenceOfCommands_18\obj\Debug\netcoreapp2.0\SequenceOfCommands_18.pdb
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\SequenceOfCommands_18\obj\Debug\netcoreapp2.0\SequenceOfCommands_18.csprojAssemblyReference.cache

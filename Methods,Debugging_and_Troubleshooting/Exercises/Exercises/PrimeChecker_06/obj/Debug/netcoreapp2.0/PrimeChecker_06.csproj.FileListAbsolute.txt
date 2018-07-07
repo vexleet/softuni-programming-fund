@@ -1,0 +1,10 @@
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\PrimeChecker_06\bin\Debug\netcoreapp2.0\PrimeChecker_06.deps.json
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\PrimeChecker_06\bin\Debug\netcoreapp2.0\PrimeChecker_06.runtimeconfig.json
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\PrimeChecker_06\bin\Debug\netcoreapp2.0\PrimeChecker_06.runtimeconfig.dev.json
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\PrimeChecker_06\bin\Debug\netcoreapp2.0\PrimeChecker_06.dll
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\PrimeChecker_06\bin\Debug\netcoreapp2.0\PrimeChecker_06.pdb
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\PrimeChecker_06\obj\Debug\netcoreapp2.0\PrimeChecker_06.csproj.CoreCompileInputs.cache
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\PrimeChecker_06\obj\Debug\netcoreapp2.0\PrimeChecker_06.AssemblyInfoInputs.cache
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\PrimeChecker_06\obj\Debug\netcoreapp2.0\PrimeChecker_06.AssemblyInfo.cs
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\PrimeChecker_06\obj\Debug\netcoreapp2.0\PrimeChecker_06.dll
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\PrimeChecker_06\obj\Debug\netcoreapp2.0\PrimeChecker_06.pdb

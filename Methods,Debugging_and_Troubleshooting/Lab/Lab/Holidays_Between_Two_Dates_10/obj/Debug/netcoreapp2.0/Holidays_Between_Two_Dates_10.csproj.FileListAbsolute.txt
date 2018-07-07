@@ -1,0 +1,11 @@
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Lab\Lab\Holidays_Between_Two_Dates_10\bin\Debug\netcoreapp2.0\Holidays_Between_Two_Dates_10.deps.json
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Lab\Lab\Holidays_Between_Two_Dates_10\bin\Debug\netcoreapp2.0\Holidays_Between_Two_Dates_10.runtimeconfig.json
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Lab\Lab\Holidays_Between_Two_Dates_10\bin\Debug\netcoreapp2.0\Holidays_Between_Two_Dates_10.runtimeconfig.dev.json
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Lab\Lab\Holidays_Between_Two_Dates_10\bin\Debug\netcoreapp2.0\Holidays_Between_Two_Dates_10.dll
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Lab\Lab\Holidays_Between_Two_Dates_10\bin\Debug\netcoreapp2.0\Holidays_Between_Two_Dates_10.pdb
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Lab\Lab\Holidays_Between_Two_Dates_10\obj\Debug\netcoreapp2.0\Holidays_Between_Two_Dates_10.csproj.CoreCompileInputs.cache
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Lab\Lab\Holidays_Between_Two_Dates_10\obj\Debug\netcoreapp2.0\Holidays_Between_Two_Dates_10.AssemblyInfoInputs.cache
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Lab\Lab\Holidays_Between_Two_Dates_10\obj\Debug\netcoreapp2.0\Holidays_Between_Two_Dates_10.AssemblyInfo.cs
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Lab\Lab\Holidays_Between_Two_Dates_10\obj\Debug\netcoreapp2.0\Holidays_Between_Two_Dates_10.dll
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Lab\Lab\Holidays_Between_Two_Dates_10\obj\Debug\netcoreapp2.0\Holidays_Between_Two_Dates_10.pdb
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Lab\Lab\Holidays_Between_Two_Dates_10\obj\Debug\netcoreapp2.0\Holidays_Between_Two_Dates_10.csprojAssemblyReference.cache

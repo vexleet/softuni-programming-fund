@@ -1,0 +1,11 @@
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\LogsAggregator_08\bin\Debug\netcoreapp2.0\LogsAggregator_08.deps.json
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\LogsAggregator_08\bin\Debug\netcoreapp2.0\LogsAggregator_08.runtimeconfig.json
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\LogsAggregator_08\bin\Debug\netcoreapp2.0\LogsAggregator_08.runtimeconfig.dev.json
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\LogsAggregator_08\bin\Debug\netcoreapp2.0\LogsAggregator_08.dll
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\LogsAggregator_08\bin\Debug\netcoreapp2.0\LogsAggregator_08.pdb
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\LogsAggregator_08\obj\Debug\netcoreapp2.0\LogsAggregator_08.csproj.CoreCompileInputs.cache
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\LogsAggregator_08\obj\Debug\netcoreapp2.0\LogsAggregator_08.AssemblyInfoInputs.cache
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\LogsAggregator_08\obj\Debug\netcoreapp2.0\LogsAggregator_08.AssemblyInfo.cs
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\LogsAggregator_08\obj\Debug\netcoreapp2.0\LogsAggregator_08.dll
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\LogsAggregator_08\obj\Debug\netcoreapp2.0\LogsAggregator_08.pdb
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\LogsAggregator_08\obj\Debug\netcoreapp2.0\LogsAggregator_08.csprojAssemblyReference.cache

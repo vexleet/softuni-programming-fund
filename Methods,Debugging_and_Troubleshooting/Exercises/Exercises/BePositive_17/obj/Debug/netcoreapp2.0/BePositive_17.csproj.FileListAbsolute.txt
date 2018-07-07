@@ -1,0 +1,10 @@
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\BePositive_17\bin\Debug\netcoreapp2.0\BePositive_17.deps.json
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\BePositive_17\bin\Debug\netcoreapp2.0\BePositive_17.runtimeconfig.json
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\BePositive_17\bin\Debug\netcoreapp2.0\BePositive_17.runtimeconfig.dev.json
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\BePositive_17\bin\Debug\netcoreapp2.0\BePositive_17.dll
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\BePositive_17\bin\Debug\netcoreapp2.0\BePositive_17.pdb
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\BePositive_17\obj\Debug\netcoreapp2.0\BePositive_17.csproj.CoreCompileInputs.cache
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\BePositive_17\obj\Debug\netcoreapp2.0\BePositive_17.AssemblyInfoInputs.cache
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\BePositive_17\obj\Debug\netcoreapp2.0\BePositive_17.AssemblyInfo.cs
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\BePositive_17\obj\Debug\netcoreapp2.0\BePositive_17.dll
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\BePositive_17\obj\Debug\netcoreapp2.0\BePositive_17.pdb

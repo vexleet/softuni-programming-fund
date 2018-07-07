@@ -1,0 +1,10 @@
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Lab\Lab\Math_Power_08\bin\Debug\netcoreapp2.0\Math_Power_08.deps.json
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Lab\Lab\Math_Power_08\bin\Debug\netcoreapp2.0\Math_Power_08.runtimeconfig.json
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Lab\Lab\Math_Power_08\bin\Debug\netcoreapp2.0\Math_Power_08.runtimeconfig.dev.json
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Lab\Lab\Math_Power_08\bin\Debug\netcoreapp2.0\Math_Power_08.dll
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Lab\Lab\Math_Power_08\bin\Debug\netcoreapp2.0\Math_Power_08.pdb
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Lab\Lab\Math_Power_08\obj\Debug\netcoreapp2.0\Math_Power_08.csproj.CoreCompileInputs.cache
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Lab\Lab\Math_Power_08\obj\Debug\netcoreapp2.0\Math_Power_08.AssemblyInfoInputs.cache
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Lab\Lab\Math_Power_08\obj\Debug\netcoreapp2.0\Math_Power_08.AssemblyInfo.cs
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Lab\Lab\Math_Power_08\obj\Debug\netcoreapp2.0\Math_Power_08.dll
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Lab\Lab\Math_Power_08\obj\Debug\netcoreapp2.0\Math_Power_08.pdb

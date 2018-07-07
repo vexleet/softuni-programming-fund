@@ -1,0 +1,11 @@
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\InstructioSet_16\bin\Debug\netcoreapp2.0\InstructioSet_16.deps.json
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\InstructioSet_16\bin\Debug\netcoreapp2.0\InstructioSet_16.runtimeconfig.json
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\InstructioSet_16\bin\Debug\netcoreapp2.0\InstructioSet_16.runtimeconfig.dev.json
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\InstructioSet_16\bin\Debug\netcoreapp2.0\InstructioSet_16.dll
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\InstructioSet_16\bin\Debug\netcoreapp2.0\InstructioSet_16.pdb
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\InstructioSet_16\obj\Debug\netcoreapp2.0\InstructioSet_16.csprojAssemblyReference.cache
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\InstructioSet_16\obj\Debug\netcoreapp2.0\InstructioSet_16.csproj.CoreCompileInputs.cache
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\InstructioSet_16\obj\Debug\netcoreapp2.0\InstructioSet_16.AssemblyInfoInputs.cache
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\InstructioSet_16\obj\Debug\netcoreapp2.0\InstructioSet_16.AssemblyInfo.cs
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\InstructioSet_16\obj\Debug\netcoreapp2.0\InstructioSet_16.dll
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\InstructioSet_16\obj\Debug\netcoreapp2.0\InstructioSet_16.pdb

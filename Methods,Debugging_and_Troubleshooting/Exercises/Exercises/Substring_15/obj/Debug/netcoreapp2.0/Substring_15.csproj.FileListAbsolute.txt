@@ -1,0 +1,11 @@
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\Substring_15\bin\Debug\netcoreapp2.0\Substring_15.deps.json
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\Substring_15\bin\Debug\netcoreapp2.0\Substring_15.runtimeconfig.json
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\Substring_15\bin\Debug\netcoreapp2.0\Substring_15.runtimeconfig.dev.json
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\Substring_15\bin\Debug\netcoreapp2.0\Substring_15.dll
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\Substring_15\bin\Debug\netcoreapp2.0\Substring_15.pdb
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\Substring_15\obj\Debug\netcoreapp2.0\Substring_15.csproj.CoreCompileInputs.cache
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\Substring_15\obj\Debug\netcoreapp2.0\Substring_15.AssemblyInfoInputs.cache
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\Substring_15\obj\Debug\netcoreapp2.0\Substring_15.AssemblyInfo.cs
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\Substring_15\obj\Debug\netcoreapp2.0\Substring_15.dll
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\Substring_15\obj\Debug\netcoreapp2.0\Substring_15.pdb
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\Substring_15\obj\Debug\netcoreapp2.0\Substring_15.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\NumbersInReversedOrder_4\bin\Debug\netcoreapp2.0\NumbersInReversedOrder_4.deps.json
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\NumbersInReversedOrder_4\bin\Debug\netcoreapp2.0\NumbersInReversedOrder_4.runtimeconfig.json
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\NumbersInReversedOrder_4\bin\Debug\netcoreapp2.0\NumbersInReversedOrder_4.runtimeconfig.dev.json
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\NumbersInReversedOrder_4\bin\Debug\netcoreapp2.0\NumbersInReversedOrder_4.dll
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\NumbersInReversedOrder_4\bin\Debug\netcoreapp2.0\NumbersInReversedOrder_4.pdb
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\NumbersInReversedOrder_4\obj\Debug\netcoreapp2.0\NumbersInReversedOrder_4.csproj.CoreCompileInputs.cache
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\NumbersInReversedOrder_4\obj\Debug\netcoreapp2.0\NumbersInReversedOrder_4.AssemblyInfoInputs.cache
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\NumbersInReversedOrder_4\obj\Debug\netcoreapp2.0\NumbersInReversedOrder_4.AssemblyInfo.cs
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\NumbersInReversedOrder_4\obj\Debug\netcoreapp2.0\NumbersInReversedOrder_4.dll
+D:\Tech Module Softuni\Programming Fund\Methods. Debugging and Troubleshooting\Exercises\Exercises\NumbersInReversedOrder_4\obj\Debug\netcoreapp2.0\NumbersInReversedOrder_4.pdb

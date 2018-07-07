@@ -1,0 +1,11 @@
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\UserLogs_06\bin\Debug\netcoreapp2.0\UserLogs_06.deps.json
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\UserLogs_06\bin\Debug\netcoreapp2.0\UserLogs_06.runtimeconfig.json
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\UserLogs_06\bin\Debug\netcoreapp2.0\UserLogs_06.runtimeconfig.dev.json
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\UserLogs_06\bin\Debug\netcoreapp2.0\UserLogs_06.dll
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\UserLogs_06\bin\Debug\netcoreapp2.0\UserLogs_06.pdb
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\UserLogs_06\obj\Debug\netcoreapp2.0\UserLogs_06.csproj.CoreCompileInputs.cache
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\UserLogs_06\obj\Debug\netcoreapp2.0\UserLogs_06.AssemblyInfoInputs.cache
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\UserLogs_06\obj\Debug\netcoreapp2.0\UserLogs_06.AssemblyInfo.cs
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\UserLogs_06\obj\Debug\netcoreapp2.0\UserLogs_06.dll
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\UserLogs_06\obj\Debug\netcoreapp2.0\UserLogs_06.pdb
+D:\Tech Module Softuni\Programming Fund\Dictionaries, Lambda and LINQ\Exercises\UserLogs_06\obj\Debug\netcoreapp2.0\UserLogs_06.csprojAssemblyReference.cache
