@@ -1,0 +1,49 @@
+{% extends 'base.html.twig' %}
+
+{% block body_id 'profile' %}
+
+{% block main %}
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <div class="row">
+                            <div class="col-md-12 lead">User profile<hr></div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4 text-center">
+                                <img class="img-circle avatar avatar-original" style="-webkit-user-select:none;
+              display:block; margin:auto;" src="http://robohash.org/sitsequiquia.png?size=160x160">
+                            </div>
+                            <div class="col-md-8">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <h1 class="only-bottom-margin">{{user.fullName}}</h1>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <span class="text-muted">Email:</span> {{user.email}}<br>
+                                        <span class="text-muted">Birth date:</span> {{user.birthDate|date("m/d/Y")}}<br>
+                                        <span class="text-muted">Gender:</span> {{user.gender}}<br><br>
+                                        <small class="text-muted">Created: {{user.createdAt|date("m/d/Y")}}</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        {#<div class="row">#}
+                            {#<div class="col-md-12">#}
+                                {#<hr><a href='/{{user.fullName}}/edit/{{user.id}}' class="btn btn-default"><i class="glyphicon glyphicon-pencil"></i> Edit Profile</a>#}
+                                {#<a href='/{{user.fullName}}/changePassword/{{user.id}}' class="btn btn-default"><i class="glyphicon glyphicon-pencil"></i> Change Password</a>#}
+                            {#</div>#}
+                            {#<!--<div class="col-md-12">-->#}
+                            {#<!--</div>-->#}
+                        {#</div>#}
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}
