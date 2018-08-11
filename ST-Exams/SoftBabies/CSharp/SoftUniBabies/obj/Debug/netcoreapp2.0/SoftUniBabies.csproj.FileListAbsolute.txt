@@ -1,0 +1,11 @@
+D:\spf\ST-Exams\SoftBabies\CSharp\SoftUniBabies\bin\Debug\netcoreapp2.0\SoftUniBabies.deps.json
+D:\spf\ST-Exams\SoftBabies\CSharp\SoftUniBabies\bin\Debug\netcoreapp2.0\SoftUniBabies.runtimeconfig.json
+D:\spf\ST-Exams\SoftBabies\CSharp\SoftUniBabies\bin\Debug\netcoreapp2.0\SoftUniBabies.runtimeconfig.dev.json
+D:\spf\ST-Exams\SoftBabies\CSharp\SoftUniBabies\bin\Debug\netcoreapp2.0\SoftUniBabies.dll
+D:\spf\ST-Exams\SoftBabies\CSharp\SoftUniBabies\bin\Debug\netcoreapp2.0\SoftUniBabies.pdb
+D:\spf\ST-Exams\SoftBabies\CSharp\SoftUniBabies\obj\Debug\netcoreapp2.0\SoftUniBabies.csprojAssemblyReference.cache
+D:\spf\ST-Exams\SoftBabies\CSharp\SoftUniBabies\obj\Debug\netcoreapp2.0\SoftUniBabies.csproj.CoreCompileInputs.cache
+D:\spf\ST-Exams\SoftBabies\CSharp\SoftUniBabies\obj\Debug\netcoreapp2.0\SoftUniBabies.AssemblyInfoInputs.cache
+D:\spf\ST-Exams\SoftBabies\CSharp\SoftUniBabies\obj\Debug\netcoreapp2.0\SoftUniBabies.AssemblyInfo.cs
+D:\spf\ST-Exams\SoftBabies\CSharp\SoftUniBabies\obj\Debug\netcoreapp2.0\SoftUniBabies.dll
+D:\spf\ST-Exams\SoftBabies\CSharp\SoftUniBabies\obj\Debug\netcoreapp2.0\SoftUniBabies.pdb
